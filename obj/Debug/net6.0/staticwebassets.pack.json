@@ -1,0 +1,1849 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Auction.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online_Auction.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\feather.css",
+      "PackagePath": "staticwebassets\\css\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\font\\feather-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font\\feather-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\font\\feather-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font\\feather-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\font\\feather-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font\\feather-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\font\\feather-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font\\feather-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\select.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-ExtraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-SemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Manrope\\Manrope-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Manrope\\Manrope-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Nunito\\Nunito-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\02135424-a112-4c77-86d8-7f92ce051d22 Screenshot 2024-03-30 214030.png",
+      "PackagePath": "staticwebassets\\images\\02135424-a112-4c77-86d8-7f92ce051d22 Screenshot 2024-03-30 214030.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\03996dff-1ea8-4e51-b21f-a01c4189a5d6 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\03996dff-1ea8-4e51-b21f-a01c4189a5d6 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\0a06a363-e852-4c45-bc37-455fe4fa2dff istockphoto-519091755-612x612.png",
+      "PackagePath": "staticwebassets\\images\\0a06a363-e852-4c45-bc37-455fe4fa2dff istockphoto-519091755-612x612.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\0db079ae-0821-499a-a80b-25f9f5d04482 computer-image-660.jpg",
+      "PackagePath": "staticwebassets\\images\\0db079ae-0821-499a-a80b-25f9f5d04482 computer-image-660.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\1cc7281f-9f90-41ee-b781-a06a4c6b730c create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\1cc7281f-9f90-41ee-b781-a06a4c6b730c create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2014fbda-4fd3-41ee-aeeb-9703a1845c66 create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\2014fbda-4fd3-41ee-aeeb-9703a1845c66 create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2048ae8f-99c9-4b3f-8ba9-bdc6780f2506 futuristic-gadgets-showcase-lineup-sleek-modern-technological-devices_977107-682.png",
+      "PackagePath": "staticwebassets\\images\\2048ae8f-99c9-4b3f-8ba9-bdc6780f2506 futuristic-gadgets-showcase-lineup-sleek-modern-technological-devices_977107-682.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\210827d6-3da4-47f2-a845-4ad8e4adea82 create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\210827d6-3da4-47f2-a845-4ad8e4adea82 create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\23efec0e-a6d7-44e0-a716-699813a8a761 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\23efec0e-a6d7-44e0-a716-699813a8a761 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2590b7aa-1230-4965-9d4e-1ad7398f0185 clone any HTML, CSS, Javascript  website for you.png",
+      "PackagePath": "staticwebassets\\images\\2590b7aa-1230-4965-9d4e-1ad7398f0185 clone any HTML, CSS, Javascript  website for you.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2784ab06-cda5-41ff-8183-afd158cabe57 portfolio_pic_2.png",
+      "PackagePath": "staticwebassets\\images\\2784ab06-cda5-41ff-8183-afd158cabe57 portfolio_pic_2.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\297ecddd-5b39-47e4-8eac-5629b9c3741d Group 23.png",
+      "PackagePath": "staticwebassets\\images\\297ecddd-5b39-47e4-8eac-5629b9c3741d Group 23.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2988f896-1c65-4ee1-ab19-9798438c920e fiver banner.jpg",
+      "PackagePath": "staticwebassets\\images\\2988f896-1c65-4ee1-ab19-9798438c920e fiver banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\2b907629-9c68-49ac-8443-b4fadcc65805 wdf310coolbank_c8339073-09a8-4a3b-8ca9-b1f1b8c2255d_774x (1).png",
+      "PackagePath": "staticwebassets\\images\\2b907629-9c68-49ac-8443-b4fadcc65805 wdf310coolbank_c8339073-09a8-4a3b-8ca9-b1f1b8c2255d_774x (1).png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\31324003-b26f-4672-9710-f416e4a4c4b9 portfolio_pic_2.png",
+      "PackagePath": "staticwebassets\\images\\31324003-b26f-4672-9710-f416e4a4c4b9 portfolio_pic_2.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\3437e008-2257-4c8e-8750-f587cc6183a4 explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\3437e008-2257-4c8e-8750-f587cc6183a4 explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\35ee73f0-6a3c-4fba-9101-8ace25462993 AnkiTA.jpg",
+      "PackagePath": "staticwebassets\\images\\35ee73f0-6a3c-4fba-9101-8ace25462993 AnkiTA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\37d35379-9c73-4a13-b6d2-d85cf1129f8a images.jpg",
+      "PackagePath": "staticwebassets\\images\\37d35379-9c73-4a13-b6d2-d85cf1129f8a images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\380dfbe8-c860-423f-bd91-16c597d70f97 images.png",
+      "PackagePath": "staticwebassets\\images\\380dfbe8-c860-423f-bd91-16c597d70f97 images.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\4ecb6272-5add-42be-b716-0e06fe2b6a39 istockphoto-519095531-612x612.png",
+      "PackagePath": "staticwebassets\\images\\4ecb6272-5add-42be-b716-0e06fe2b6a39 istockphoto-519095531-612x612.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\56c54684-f1d0-4089-be20-50c63bf30676 Screenshot 2024-03-30 214001.png",
+      "PackagePath": "staticwebassets\\images\\56c54684-f1d0-4089-be20-50c63bf30676 Screenshot 2024-03-30 214001.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\597cd97e-4ec5-41cf-88a4-dc79721a0c38 kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\597cd97e-4ec5-41cf-88a4-dc79721a0c38 kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\5d08b6a1-cc52-482d-a63a-89c9e426bf31 b3cf771a-c9c9-438d-af2a-7f3ffb55538d.webp",
+      "PackagePath": "staticwebassets\\images\\5d08b6a1-cc52-482d-a63a-89c9e426bf31 b3cf771a-c9c9-438d-af2a-7f3ffb55538d.webp"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\5d56b0e1-50f5-4b46-8138-bfb2327a395c 2021-Bugatti-Chiron-Pur-Sport-1.jpg",
+      "PackagePath": "staticwebassets\\images\\5d56b0e1-50f5-4b46-8138-bfb2327a395c 2021-Bugatti-Chiron-Pur-Sport-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\5dbf60aa-372b-4577-92e2-d02944390e86 Screenshot 2024-03-30 214001.png",
+      "PackagePath": "staticwebassets\\images\\5dbf60aa-372b-4577-92e2-d02944390e86 Screenshot 2024-03-30 214001.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\60061035-4a8d-49e8-9f41-b36d63ce4ab5 create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\60061035-4a8d-49e8-9f41-b36d63ce4ab5 create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\644c7630-e7e1-49f7-a98c-ff62db33f3d8 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\644c7630-e7e1-49f7-a98c-ff62db33f3d8 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\66c5a0ce-6517-4741-b89c-add2e8950b71 Screenshot 2024-03-30 213845.png",
+      "PackagePath": "staticwebassets\\images\\66c5a0ce-6517-4741-b89c-add2e8950b71 Screenshot 2024-03-30 213845.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\67390c09-41fa-4f44-a4f6-ab3b175245b7 shayan.jpeg",
+      "PackagePath": "staticwebassets\\images\\67390c09-41fa-4f44-a4f6-ab3b175245b7 shayan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\7de8ec7b-54e9-4d3b-b6c0-54476a4eb6e7 pexels-binyamin-mellish-186077.jpg",
+      "PackagePath": "staticwebassets\\images\\7de8ec7b-54e9-4d3b-b6c0-54476a4eb6e7 pexels-binyamin-mellish-186077.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\7f91501b-6b05-48fc-8a71-662710f4d1a4 Screenshot 2024-03-30 213930.png",
+      "PackagePath": "staticwebassets\\images\\7f91501b-6b05-48fc-8a71-662710f4d1a4 Screenshot 2024-03-30 213930.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\7fc7c843-5b8c-46c5-ab6c-9a5bf97223fa 23-cadillac-upcoming-vehicles-vistiq-s-v2.png",
+      "PackagePath": "staticwebassets\\images\\7fc7c843-5b8c-46c5-ab6c-9a5bf97223fa 23-cadillac-upcoming-vehicles-vistiq-s-v2.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\8835df4f-ae3e-41f6-b626-dd90d6be33a0 create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\8835df4f-ae3e-41f6-b626-dd90d6be33a0 create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\9049317f-442f-478d-b70d-07871237c2bf kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\9049317f-442f-478d-b70d-07871237c2bf kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\90770461-5e13-4d97-86f1-87fd73d7b0f0 Screenshot 2024-03-30 214001.png",
+      "PackagePath": "staticwebassets\\images\\90770461-5e13-4d97-86f1-87fd73d7b0f0 Screenshot 2024-03-30 214001.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\998c7aca-b3d5-413d-98cc-6fe48fb317dc Screenshot 2024-03-30 214030.png",
+      "PackagePath": "staticwebassets\\images\\998c7aca-b3d5-413d-98cc-6fe48fb317dc Screenshot 2024-03-30 214030.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\9afc5bf1-8bd5-417e-8d9b-13280446248b 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\9afc5bf1-8bd5-417e-8d9b-13280446248b 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\9dbb50d3-dd91-4eda-9978-d9a6f7682276 315-SD-3.png",
+      "PackagePath": "staticwebassets\\images\\9dbb50d3-dd91-4eda-9978-d9a6f7682276 315-SD-3.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\9efaebb1-724e-4200-bf4b-b66f54afe84e Cristiano-Ronaldo-Autograph-football-white-museum-authentic-CR7.png",
+      "PackagePath": "staticwebassets\\images\\9efaebb1-724e-4200-bf4b-b66f54afe84e Cristiano-Ronaldo-Autograph-football-white-museum-authentic-CR7.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\a3360b49-c800-4087-a3ed-35ce9c865c51 bugatti-chiron-1500.jpg",
+      "PackagePath": "staticwebassets\\images\\a3360b49-c800-4087-a3ed-35ce9c865c51 bugatti-chiron-1500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\a997c24b-3e68-4027-928d-70fe4c891fad Screenshot 2024-03-30 213909.png",
+      "PackagePath": "staticwebassets\\images\\a997c24b-3e68-4027-928d-70fe4c891fad Screenshot 2024-03-30 213909.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\acbf53db-dbd1-4f78-bc2a-b709fcb34e8a a0b194d1-91be-40f5-840a-cb4e3d8cb3ec.png",
+      "PackagePath": "staticwebassets\\images\\acbf53db-dbd1-4f78-bc2a-b709fcb34e8a a0b194d1-91be-40f5-840a-cb4e3d8cb3ec.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\aniq.jpeg",
+      "PackagePath": "staticwebassets\\images\\aniq.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\b536b8f9-c1b0-4361-858e-7c51668e2560 sports-tools_53876-138077.png",
+      "PackagePath": "staticwebassets\\images\\b536b8f9-c1b0-4361-858e-7c51668e2560 sports-tools_53876-138077.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\b771d816-3d81-4190-8a83-3f028c1237f5 AnkiTA.jpg",
+      "PackagePath": "staticwebassets\\images\\b771d816-3d81-4190-8a83-3f028c1237f5 AnkiTA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\bbe91f66-2bc3-43a8-a749-b231f8fbf4c4 ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\bbe91f66-2bc3-43a8-a749-b231f8fbf4c4 ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\c7fe5192-df23-47a8-aa4d-032c1a19d502 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\c7fe5192-df23-47a8-aa4d-032c1a19d502 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\c8fa75a5-1629-40b0-89bf-c9e6b5578356 Screenshot 2024-03-30 214001.png",
+      "PackagePath": "staticwebassets\\images\\c8fa75a5-1629-40b0-89bf-c9e6b5578356 Screenshot 2024-03-30 214001.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_10.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_11.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_12.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_4.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_6.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_7.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_8.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\carousel\\banner_9.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel\\banner_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\cdc876b1-3232-4a41-99d3-3fecff3fc80f Screenshot 2024-03-30 213403.png",
+      "PackagePath": "staticwebassets\\images\\cdc876b1-3232-4a41-99d3-3fecff3fc80f Screenshot 2024-03-30 213403.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\d22d9efe-edfa-4dbe-8e0e-d38752cc5eba kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\d22d9efe-edfa-4dbe-8e0e-d38752cc5eba kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\d3e6f053-7c09-48ee-b32f-1e913fb43ef9 sddefault.jpg",
+      "PackagePath": "staticwebassets\\images\\d3e6f053-7c09-48ee-b32f-1e913fb43ef9 sddefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\d4737715-1778-4806-9003-ddf6fe312e89 ubaid.jpg",
+      "PackagePath": "staticwebassets\\images\\d4737715-1778-4806-9003-ddf6fe312e89 ubaid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\d58c7f51-fe5c-4c35-b398-946e05831c7b Screenshot 2024-03-30 214030.png",
+      "PackagePath": "staticwebassets\\images\\d58c7f51-fe5c-4c35-b398-946e05831c7b Screenshot 2024-03-30 214030.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\people.png",
+      "PackagePath": "staticwebassets\\images\\dashboard\\people.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\people.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\people.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\people11.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\people11.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\shape-1.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\shape-2.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\shape-3.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\dashboard\\shape-4.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard\\shape-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\boxed-layout.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\boxed-layout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\calendar.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\calendar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\compact-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\compact-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\dark-sidebar.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\dark-sidebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\email.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\email.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\fixed-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\fixed-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\horizontal-menu-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\horizontal-menu-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\horizontal-menu-light.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\horizontal-menu-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\icon-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\icon-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\portfolio.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\portfolio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\pricing.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\toggle-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\toggle-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\toggle-overlay-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\toggle-overlay-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\vertical-dark.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\vertical-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\demo\\vertical-default.jpg",
+      "PackagePath": "staticwebassets\\images\\demo\\vertical-default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\e4165c92-99b7-4e64-9bd8-690a603e1e44 logo umair.png",
+      "PackagePath": "staticwebassets\\images\\e4165c92-99b7-4e64-9bd8-690a603e1e44 logo umair.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\e43c5e42-8198-4b6f-962a-eb2ab49c0693 Screenshot 2024-03-30 214030.png",
+      "PackagePath": "staticwebassets\\images\\e43c5e42-8198-4b6f-962a-eb2ab49c0693 Screenshot 2024-03-30 214030.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\e54fb0bc-abe0-46c6-973e-03d3ed301131 _MG_3808.jpg",
+      "PackagePath": "staticwebassets\\images\\e54fb0bc-abe0-46c6-973e-03d3ed301131 _MG_3808.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\e7583a70-5641-4b7d-9de6-fabf796b101e IMG_3617.jpg",
+      "PackagePath": "staticwebassets\\images\\e7583a70-5641-4b7d-9de6-fabf796b101e IMG_3617.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\e83300ad-b438-458b-983e-03eaf71495e4 computer-image-660.jpg",
+      "PackagePath": "staticwebassets\\images\\e83300ad-b438-458b-983e-03eaf71495e4 computer-image-660.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\eccedace-f299-415f-ab53-d32c557a45ae kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\eccedace-f299-415f-ab53-d32c557a45ae kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f31b14b2-6a03-4803-9745-26f0a4822593 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\f31b14b2-6a03-4803-9745-26f0a4822593 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f76131dd-5b0e-49fb-8f11-bcb9dabf7109 Screenshot 2024-03-30 213233.png",
+      "PackagePath": "staticwebassets\\images\\f76131dd-5b0e-49fb-8f11-bcb9dabf7109 Screenshot 2024-03-30 213233.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f831dddc-3212-4da9-927f-c1dc69e99a0a create a stunning responsive website with HTML, CSS, javascript.png",
+      "PackagePath": "staticwebassets\\images\\f831dddc-3212-4da9-927f-c1dc69e99a0a create a stunning responsive website with HTML, CSS, javascript.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f8f0ba59-4476-4329-b34b-37ff67fae244 shayan.jpeg",
+      "PackagePath": "staticwebassets\\images\\f8f0ba59-4476-4329-b34b-37ff67fae244 shayan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f94ac7a3-57fc-4d9f-8c98-527e7b003ed0 Screenshot 2024-03-30 213909.png",
+      "PackagePath": "staticwebassets\\images\\f94ac7a3-57fc-4d9f-8c98-527e7b003ed0 Screenshot 2024-03-30 213909.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\f97ffd0d-b2a1-417a-a2dd-8e230acfa035 sddefault.jpg",
+      "PackagePath": "staticwebassets\\images\\f97ffd0d-b2a1-417a-a2dd-8e230acfa035 sddefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face28.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\fb9b3b36-eb98-4493-a127-87be725895d7 logo umair.png",
+      "PackagePath": "staticwebassets\\images\\fb9b3b36-eb98-4493-a127-87be725895d7 logo umair.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\fd2fe02d-7104-4c41-9c57-36e92c50d929 kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\fd2fe02d-7104-4c41-9c57-36e92c50d929 kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\fe161442-43f5-4141-aeb0-99e6f85c8027 1_Otr7zJvU2IZVeevLOWUMpw.png",
+      "PackagePath": "staticwebassets\\images\\fe161442-43f5-4141-aeb0-99e6f85c8027 1_Otr7zJvU2IZVeevLOWUMpw.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\fe24038b-58a3-43cb-9eba-ca954a31a693 modern-golden-washing-machine-on-a-white-background-3d-rendering-2C4XGJF.png",
+      "PackagePath": "staticwebassets\\images\\fe24038b-58a3-43cb-9eba-ca954a31a693 modern-golden-washing-machine-on-a-white-background-3d-rendering-2C4XGJF.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\ffff2831-113d-40dd-a6d5-ead4c90e2759 _MG_3808.jpg",
+      "PackagePath": "staticwebassets\\images\\ffff2831-113d-40dd-a6d5-ead4c90e2759 _MG_3808.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\002-tool.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\003-interface.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\005-database.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\006-record.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\007-folder.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\128\\008-archive.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\128\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\002-tool.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\003-interface.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\005-database.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\006-record.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\007-folder.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\256\\008-archive.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\256\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\002-tool.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\003-interface.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\005-database.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\006-record.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\007-folder.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\512\\008-archive.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\512\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\002-tool.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\003-interface.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\005-database.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\006-record.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\007-folder.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\file-icons\\64\\008-archive.png",
+      "PackagePath": "staticwebassets\\images\\file-icons\\64\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\fulllogo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\fulllogo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\lightbox\\play-button.png",
+      "PackagePath": "staticwebassets\\images\\lightbox\\play-button.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\lightbox\\thumb-v-v-1.jpg",
+      "PackagePath": "staticwebassets\\images\\lightbox\\thumb-v-v-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\lightbox\\thumb-v-v-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lightbox\\thumb-v-v-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\lightbox\\thumb-v-y-1.jpg",
+      "PackagePath": "staticwebassets\\images\\lightbox\\thumb-v-y-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\lightbox\\thumb-v-y-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lightbox\\thumb-v-y-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\nameiwthleaves-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\nameiwthleaves-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\namewithlogo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\namewithlogo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\onlylogo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\onlylogo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\placeholder-image.png",
+      "PackagePath": "staticwebassets\\images\\placeholder-image.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\profilepicturplaceholder.png",
+      "PackagePath": "staticwebassets\\images\\profilepicturplaceholder.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\1280x768\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\1280x768\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\samples\\300x300\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\samples\\300x300\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\shayan.jpeg",
+      "PackagePath": "staticwebassets\\images\\shayan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\side-logo-white.png",
+      "PackagePath": "staticwebassets\\images\\side-logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\side-logo.png",
+      "PackagePath": "staticwebassets\\images\\side-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sirfname-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\sirfname-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\ubaid.jpg",
+      "PackagePath": "staticwebassets\\images\\ubaid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\umair.jpeg",
+      "PackagePath": "staticwebassets\\images\\umair.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\whitelogo.png",
+      "PackagePath": "staticwebassets\\images\\whitelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\Chart.roundedBarCharts.js",
+      "PackagePath": "staticwebassets\\js\\Chart.roundedBarCharts.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\nav.js",
+      "PackagePath": "staticwebassets\\js\\nav.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\settings.js",
+      "PackagePath": "staticwebassets\\js\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\template.js",
+      "PackagePath": "staticwebassets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\syed jazib\\Desktop\\E-Project (Online Auction)\\Online_Auction\\Online_Auction\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online_Auction.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online_Auction.props",
+      "PackagePath": "build\\Online_Auction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online_Auction.props",
+      "PackagePath": "buildMultiTargeting\\Online_Auction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online_Auction.props",
+      "PackagePath": "buildTransitive\\Online_Auction.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
